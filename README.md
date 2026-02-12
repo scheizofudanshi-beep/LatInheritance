@@ -1,0 +1,2 @@
+# LatInheritance
+Latihan Inheritance
